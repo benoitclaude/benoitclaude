@@ -456,7 +456,7 @@
         </a>
       </th>
       <th align="center">
-        <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
+        <a href="https://www.paypal.com/donate/?hosted_button_id=5W9XZB6X45ZPG" target="_blank">
           <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
         </a>
       </th>
