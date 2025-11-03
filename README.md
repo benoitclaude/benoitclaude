@@ -466,7 +466,7 @@
         <img src="QR Codes/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="150" height="150">
       </td>
       <td align="center">
-       <img src="QR Codes/pp_qrcode.png" alt="PayPal QR Code" width="150" height="150">
+       <img src="https://github.com/benoitclaude/benoitclaude/blob/main/QR%20Codes/qrcode.png" alt="PayPal QR Code" width="150" height="150">
       </td>
     </tr>
   </table>
