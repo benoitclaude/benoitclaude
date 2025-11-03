@@ -273,7 +273,7 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="50" height="50"/><br>SQLite
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
@@ -322,9 +322,6 @@
         </td>
         <td align="center" style="border: none; padding: 12px;">
           <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-        </td>
-        <td align="center" style="border: none; padding: 12px;">
-          <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle Cloud" width="50" height="50"/><br>Oracle Cloud
         </td>
       </tr>
     </tbody>
