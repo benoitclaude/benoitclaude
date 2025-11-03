@@ -438,7 +438,10 @@
 <br><br><br><br>
 <p align="center">
 
- [![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Benoit+Bindzi&size=square)](https://github.com/benoitclaude/benoitclaude/blob/main/Files/CV%20Bindzi%202025.pdf) [![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenoit-bindzi-33048518a%2F&subtitle=@Benoit+Bindzi&size=square)](www.linkedin.com/in/benoitbindzi)  [![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FBenoitBindzi&subtitle=%2FBenoit+Bindzi&size=square)](https://github.com/benoitclaude) 
+[![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Benoit+Bindzi&size=square)](https://www.bb.dev/) 
+[![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenoitbindzi&subtitle=@Benoit+Bindzi&size=square)](https://www.linkedin.com/in/benoitbindzi) 
+[![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sistackoverflow&subtitle=BenoitBindzi&size=square&rounded=24&subtitle=Benoit+Bindzi)](https://stackoverflow.com/users/18641534/benoit-bindzi?tab=profile) 
+[![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicodepen&subtitle=&size=square&rounded=24&subtitle=Benoit+Bindzi)](https://codepen.io/benoitclaude)
 
 </p> 
 </div>
