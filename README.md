@@ -56,7 +56,7 @@
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/659d3126ae22c125234a6513?variant=dark" alt="roadmap.sh" width="340"/></a>   
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/659d3126ae22c125234a6513?variant=dark&roadmaps=backend%2Cfrontend%2Cgit-github%2Cdevops" alt="roadmap.sh" width="340"/></a>   
     </td>
   </tr>
 </table>
