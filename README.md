@@ -1,12 +1,12 @@
 
-<br><br>
-
+<br>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<br><br>
-
 <div align="center">
+
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm  Benoit Bindzi</h1>
 
 <p align="center">
@@ -14,22 +14,19 @@
 </p>
 
 
-<div align="center">
-	<br>
-  	- 💻 I’m currently learning ISTQB, React, Laravel, and n8n <br>
- 	- 👥 I’m looking to collaborate on React apps built with Tailwind CSS <br>
-  	- 🚑 I’d appreciate help with React, Tailwind CSS, and n8n <br>
-  	- 👨🏽‍💻 All my projects will soon be available on [My Portfolio] <br>
-  	- 💬 Feel free to ask me about React, Node.js, JavaScript, PHP, or Laravel <br>
-</div> 
-<br><br> 
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" />     
+<div align="center" style="display: flex; justify-content: center;">
+  <div style="margin: 10px; text-align: left;">
+    - 💻 I’m currently learning software testing, React, web development frameworks, and n8n<br>
+    - 👥 I’m looking to collaborate on React apps built with Tailwind CSS<br>
+    - 🚑 I’d appreciate help with React, Tailwind CSS, and n8n<br>
+    - 👨🏽‍💻 All my projects will soon be available on [My Portfolio]<br>
+    - 💬 Feel free to ask me about React, Node.js, JavaScript, PHP, or web development frameworks
+  </div> 
+<div style="margin: 10px;">
+	<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" />
 </div>  
-
-
-<br><br><br>
+</div>
+<br><br><br><br>
 
 
 <h2 align="center">🚀 About Me</h2>
