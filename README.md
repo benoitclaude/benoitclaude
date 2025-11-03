@@ -1,4 +1,5 @@
 
+
 <br>
 <br>
 
@@ -6,24 +7,29 @@
 
 <div align="center">
 
+<br>
+<br>
+
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm  Benoit Bindzi</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=IT+Supporter;Data+Center+Technician;Software+Developer;IT+Administrator;Agile+Enthousiast;DevOps;" alt="Typing SVG" />
 </p>
 
+<br><br> 
 
 <div align="center" style="display: flex; justify-content: center;">
-  <div style="margin: 10px; text-align: left;">
-    - 💻 I’m currently learning software testing, React, web development frameworks, and n8n<br>
-    - 👥 I’m looking to collaborate on React apps built with Tailwind CSS<br>
-    - 🚑 I’d appreciate help with React, Tailwind CSS, and n8n<br>
-    - 👨🏽‍💻 All my projects will soon be available on [My Portfolio]<br>
-    - 💬 Feel free to ask me about React, Node.js, JavaScript, PHP, or web development frameworks
-  </div> 
-<div style="margin: 10px;">
-	<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" />
-</div>  
+  
+  <p style="text-align: center;">
+  
+    - 💻 I’m currently learning ISTQB, React and n8n.
+    - 👥 I’m looking to collaborate on React apps built with Tailwind CSS
+    - 🚑 I’d appreciate help with React, Tailwind CSS, and n8n
+    - 👨🏽‍💻 All my projects will soon be available on [My Portfolio]
+    - 💬 Feel free to ask me about React and Laravel.
+    
+  </p> 
+  
 </div>
 <br><br><br><br>
 
@@ -428,15 +434,31 @@
 <div align="center">
 
 <h2>🌐 Connect with Me</h2>
+
 <br><br><br><br>
-<p align="center">
 
-[![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Benoit+Bindzi&size=square)](https://www.bb.dev/) 
-[![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenoitbindzi&subtitle=@Benoit+Bindzi&size=square)](https://www.linkedin.com/in/benoitbindzi) 
-[![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sistackoverflow&subtitle=BenoitBindzi&size=square&rounded=24&subtitle=Benoit+Bindzi)](https://stackoverflow.com/users/18641534/benoit-bindzi?tab=profile) 
-[![Benoit Bindzi](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicodepen&subtitle=&size=square&rounded=24&subtitle=Benoit+Bindzi)](https://codepen.io/benoitclaude)
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-</p> 
+  <a href="https://www.bb.dev/" style="display: inline-block;">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Benoit+Bindzi&size=square" alt="Personal site - Benoit Bindzi" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/benoitbindzi" style="display: inline-block;">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbenoitbindzi&subtitle=@Benoit+Bindzi&size=square" alt="LinkedIn - Benoit Bindzi" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/18641534/benoit-bindzi?tab=profile" style="display: inline-block;">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sistackoverflow&subtitle=Benoit+Bindzi&size=square&rounded=24" alt="Stack Overflow - Benoit Bindzi" />
+  </a>
+
+  <a href="https://codepen.io/benoitclaude" style="display: inline-block;">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sicodepen&subtitle=Benoit+Bindzi&size=square&rounded=24" alt="CodePen - Benoit Bindzi" />
+  </a>
+
+</div>
+
+<br><br>
+
 </div>
 
 <br><br>
@@ -472,9 +494,7 @@
 <h3>
 <div align="center">
   
-From [Benoit Bindzi](https://github.com/benoitclaude) 💻 | Let's innovate together! 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
-
+From [Benoit Bindzi](https://github.com/benoitclaude) 💻 | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 </div>
 </h3>
