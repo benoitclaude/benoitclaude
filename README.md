@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<h1 align="center">Hi  There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm  Benoit  Bindzi</h1>
+<h1 align="center">Hi  There! <img width="37" src="https://github.com/benoitclaude/benoitclaude/blob/main/Files/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm  Benoit  Bindzi</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=IT+Supporter;Data+Center+Technician;Software+Developer;IT+Administrator;Agile+Enthousiast;DevOps;" alt="Typing SVG" />
